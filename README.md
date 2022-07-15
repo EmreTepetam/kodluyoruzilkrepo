@@ -27,3 +27,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 -----
 [MIT](https://choosealicense.com/licenses/mit/)
+
+### Patika Hesabım
+---
+[Emre Tepetam](https://app.patika.dev/doctor)
+---
